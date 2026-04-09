@@ -1,0 +1,73 @@
+🛒 Blinkit Sales Dashboard (Power BI)
+📌 Project Overview
+
+This project presents an interactive Blinkit Sales Dashboard built using Power BI to analyze sales performance, item distribution, outlet characteristics, and customer ratings.
+
+The dashboard helps stakeholders quickly understand key business insights such as total sales, average sales, item categories, outlet performance, and customer satisfaction.
+
+🎯 Objectives
+Analyze overall sales performance
+Identify high-performing outlet types and sizes
+Understand item distribution across categories
+Evaluate customer ratings and trends
+Provide actionable insights for business decisions
+📊 Key Metrics
+Total Sales: 1.20M
+Average Sales: 141
+Number of Items: 8523
+Average Rating: 3.9
+📈 Dashboard Features
+🔹 1. Sales Overview
+Displays total and average sales
+Quick KPI cards for high-level insights
+🔹 2. Outlet Analysis
+Outlet establishment trend over years
+Comparison by:
+Outlet Size (Small, Medium, High)
+Outlet Location (Tier 1, Tier 2, Tier 3)
+🔹 3. Item Analysis
+Item categories (e.g., Dairy, Snacks, Fruits, etc.)
+Number of items per category
+Fat content distribution (Low Fat vs Regular)
+🔹 4. Outlet Type Comparison
+Supermarket Type 1, 2, 3 and Grocery Store
+Metrics:
+Total Sales
+Number of Items
+Average Sales
+Average Rating
+Item Visibility
+🔹 5. Filters (Slicers)
+Outlet Location Type
+Outlet Size
+Item Type
+🛠️ Tools & Technologies
+Power BI – Data visualization & dashboard creation
+Excel / CSV Dataset – Data source
+DAX (Data Analysis Expressions) – Calculations and measures
+📂 Dataset Description
+
+The dataset contains:
+
+Item details (type, fat content)
+Outlet details (size, location, type)
+Sales data
+Ratings and visibility metrics
+🚀 Insights Gained
+Tier 3 outlets generate the highest sales
+Supermarket Type 1 dominates in total sales
+Medium-sized outlets contribute the most revenue
+Average ratings are consistent across categories (~4)
+Certain item categories (like snacks, dairy) perform consistently well
+
+
+
+📌 How to Use
+Open the .pbix file in Power BI Desktop
+Use slicers to filter data dynamically
+Explore different visuals for insights
+🔮 Future Improvements
+Add time-series forecasting
+Integrate real-time data
+Enhance UI/UX with advanced visuals
+Drill-through analysis for deeper insights
